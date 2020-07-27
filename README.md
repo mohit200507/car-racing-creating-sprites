@@ -1,1 +1,2 @@
-# car-racing-creating-sprites
+# synchronousBallMovement
+Ball moving synchronously
